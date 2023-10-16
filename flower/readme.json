@@ -23,4 +23,10 @@
     "title":"FedProx on MNIST using a CNN",
     "link":"https://flower.dev/blog/2023-02-16-fl-starter-pack-fedprox-mnist-cnn/"
 }
+,
+{
+
+    "title":"strategy for fedprox",
+    "link":"https://flower.dev/docs/framework/_modules/flwr/server/strategy/fedprox.html"
+}
 ]
