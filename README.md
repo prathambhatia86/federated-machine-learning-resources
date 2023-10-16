@@ -21,7 +21,7 @@ a) If you want to add some useful link not yet added,use readme.json file with f
 <br/>
   "title":<"explain briefly about type of link">,
   <br/>
-  "link":<link>
+  "link":<"link">
   <br/>
 }
 <br/>
