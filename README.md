@@ -14,7 +14,7 @@ This repository contains resources and sample codes for learning federated machi
 3.There are two areas where you can contribute:-
 <br/>
 <br/>
-a)If you want to add some useful link not yet added,use readme.json file with following format:-
+a) If you want to add some useful link not yet added,use readme.json file with following format:-
 <br/>
 <br/>
 {
@@ -26,7 +26,7 @@ a)If you want to add some useful link not yet added,use readme.json file with fo
 }
 <br/>
 <br/>
-b)for .py or .ipynb file,create another folder with the name of your choice and put the files in that folder.
+b) for .py or .ipynb file,create another folder with the name of your choice and put the files in that folder.
 <br/>
 <br/>
 4.create a pull request with the format `commit:"<"write briefly about what you have done">`
