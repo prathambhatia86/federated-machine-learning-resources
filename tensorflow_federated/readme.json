@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Introduction to federated machine learning by tensorflow",
+        "link":"https://www.tensorflow.org/federated/get_started"
+    }
+    ,
+    {
+        "title":"Building own federated learning algorithm",
+        "link":"https://www.tensorflow.org/federated/tutorials/building_your_own_federated_learning_algorithm"
+    }
+    ,
+    {
+        "title":"Fedprox implementation in tensorflow",
+        "link":"https://www.tensorflow.org/federated/api_docs/python/tff/learning/algorithms/build_weighted_fed_prox"
+    }
+]
